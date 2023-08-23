@@ -1,0 +1,23 @@
+.arrimages{
+  
+   /* width: 20%;
+   height: auto;
+   text-align: center; */
+  
+    display: block;
+    margin: 4% auto;
+    width: 20%;
+    padding-bottom: 2%;
+   
+}
+.arrimages1{
+    
+    display: flex;
+  justify-content: center;
+  padding-top: 15%;
+  margin: 4% auto;
+  width: 20%;
+  margin-right: 15% ;
+ 
+
+}

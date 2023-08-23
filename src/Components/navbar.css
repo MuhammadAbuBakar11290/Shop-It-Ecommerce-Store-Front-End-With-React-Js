@@ -1,0 +1,223 @@
+/* navbar.css */
+
+.Navbar-Container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-p {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.logo-p img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* .heading {
+  display: flex;
+  align-items: center;
+  opacity: 0;
+  display: inline-block;
+  linear forwards:
+  -webkit-animation: 
+  animate 1s linear forwards;
+} */
+.heading {
+  display: flex;
+ color: white;
+  align-items: center;
+  text-decoration: none;
+  opacity: 0;
+  animation: animate 4s linear forwards; /* Use "animation" property to apply the animation */
+}
+
+.heading > * {
+  text-decoration: none;
+}
+
+@keyframes animate {
+  to {
+    opacity: 1;
+  }
+}
+
+.heading h3 {
+  color: cyan;
+  margin: 0;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.links-container {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.nav-opt {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  margin-left: -270px;
+}
+
+.nav-opt li {
+  margin: 0 20px;
+}
+
+.nav-opt li:last-child {
+  margin-right: 0;
+}
+
+.nav-opt li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.nav-opt li a:hover {
+  color: #03a895; /* Change to your desired hover color */
+}
+/* navbar.css */
+
+/* ... (previous CSS styles) ... */
+
+.links-container {
+  display: flex;
+  align-items: center;
+  position: relative; /* Make the container relative */
+}
+
+/* Style for the "Sign In" link */
+.sign-in-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+}
+
+.sign-in-button a {
+  padding: 10px 20px;
+  background-color: #ff9800; /* Button background color */
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.sign-in-button a:hover {
+  background-color: #ffab40; /* Change to your desired hover color */
+}
+
+/* Existing CSS styles */
+
+/* ... (previous CSS styles) ... */
+
+
+
+
+
+/* Existing styles */
+
+/* ... (previous CSS styles) ... */
+
+
+@media screen and (max-width: 480px) {
+  .Navbar-Container {
+    flex-direction: column;
+    padding: 15px 10px;
+  }
+
+  .logo-container {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .logo-p {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .logo-p img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .heading {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .links-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 0;
+    margin-top: 20px;
+  }
+
+  .nav-opt {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-opt li {
+    margin: 10px 0;
+  }
+
+  .sign-in-button {
+    margin-top: auto;
+    text-align: center;
+  }
+
+  .sign-in-button a {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff9800; /* Button background color */
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+.sign-in-button a:hover {
+    background-color: #ffab40; /* Change to your desired*/
+}}
+.View-Cart-button {
+  margin-top: auto;
+  text-align: center;
+}
+
+.View-Cart-button a {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff9800; /* Button background color */
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.View-Cart-buttona:hover {
+  background-color: #ffab40; /* Change to your desired*/
+}

@@ -1,0 +1,298 @@
+/* @@import url('https://fonts.googleapis.com/css2?family=Brush+Script+MT&family=Lucida+Handwriting&display=swap'); */
+
+
+/* .main{
+  /* background-color: #317f9738; */
+   
+ 
+.image-container {
+    overflow: hidden;
+    background-color: #317f9738;
+  }
+  
+  .image1 {
+    width: 50%;
+    height: 580px;
+    margin-top: 1%;
+    float: right;
+    margin-right: 5px;
+  }
+  
+  .text-container {
+    height: 500px;
+    width: 49%;
+    float: left;
+    font-size: large;
+    /* margin-left: 150px;
+    margin-top: 100px; */
+    font-family: cursive;
+  }
+  .collection-text{
+    display: flex;
+    position: relative;
+    margin-left: 5%;
+    top: 9%;
+    
+  }
+  .headings{
+    display: flex;
+    position: relative;
+    margin-left: 10%;
+    top: 9%;
+    font-size: 25px;
+    background: linear-gradient(to right, rgb(48, 181, 30), rgb(166, 25, 179)); /* Gradient from blue to green */
+    background-clip: text; /* Apply gradient to text */
+    color: transparent; /* Hide the original text color */
+  }
+  .headi3{
+    display: flex;
+    position: absolute;
+    top: 100%;
+    color:black;
+  }
+  .summer{
+    font-size: 38px;
+
+    color:rgb(255, 149, 0) ;
+  }
+  .collection{
+    color: blue;
+    font-size: 38px;
+  }
+  /* Your existing styles... */
+
+.shop-button {
+    display: flex;
+    position: absolute;
+    top: 150%;
+    background-color: #FF5733;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 29px;
+    text-decoration: none;
+   
+  }
+  
+  .arrow {
+    margin-left: 5px;
+  }
+  
+  .shop-button:hover {
+    background-color: #E64A19;
+  }
+  .main-container{
+    background-color: #317f9738;
+    
+  }
+  
+  .fimage{
+    height: 500px;
+    width: 33%;
+    float: right;
+    padding-top: 90px;
+    margin-right: 176px;
+  
+}
+.content{
+    text-align: center;
+    padding-top: 300px;
+    font-weight: 700;
+    display: flex;
+    position: relative;
+    margin: 0px;
+    }
+    .bagimg {
+      margin-top: 7%;
+    }
+
+.bag-content{
+  text-align: center;
+  margin-left: 18%;
+  margin-top: 5%;
+}
+.hotdeal{
+  margin-left: 15%;
+  margin-top: -25%;
+  height: 84px;
+  width: 100px;
+  background: #111111;
+  border-radius: 50%;
+  padding-top: 21px;
+  text-align: center;
+  color: white;
+}
+.deal{
+  margin-left: -12%;
+}
+.counter {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #830a0a;
+  padding: 20px;
+  
+}
+
+.clock {
+  margin-left: 3%;
+  margin-top: 11%;
+  padding-bottom: 7%;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/* .clothing{
+  float: right;
+    /* margin-left: 613px; */
+    /* color: rgba(13, 12, 12, 0.947); */
+    
+
+/* .collect{
+    
+    color: #2eb4ea;
+    
+
+} */ */
+.simage{
+  margin-top: 1%;
+  height: 700px;
+}
+.gimage{
+  margin-top: -5%;
+  height: 450px;
+  width: 35%;
+  display: flex;
+  position: absolutes;
+  padding-top: 2%;
+  margin-left: 5%;
+ 
+  
+}
+/* .shoeimg{
+  height: 300px;
+  width: 20%;
+  display: flex;
+ margin-top: -38%;
+  float: right;
+  height: 500px;
+  width: 35%;
+  margin-right: 8%;
+ 
+  
+} */
+.shcont{
+  display: flex;
+  position: absolute;
+  text-align: center;
+  margin-left: 50%;
+  margin-top: -24%;
+  font-size: 44px;
+  font-family: cursive;
+}
+.spring{
+  color: #e43c09;
+}
+
+.star {
+  color: #FFD700; /* Yellow color for stars */
+}
+.arrimages1 {
+  width: 20%;
+  margin: 3% 40%; /* Center horizontally and adjust top margin */
+  text-align: center;
+}
+
+.arrimages {
+  width: 20%;
+  display: flex;
+  margin: 4% auto; /* Center horizontally */
+  text-align: center;
+}
+
+/* Your existing CSS code */
+
+/* ... (previous CSS styles) ... */
+
+/* Media Query for screens between 320px and 480px */
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /* Adjust image and text container layout */
+  .image-container,
+  .text-container {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+
+  /* Adjust headings alignment */
+  .collection-text,
+  .headings {
+    margin-left: 5%;
+    top: 0;
+    text-align: center;
+  }
+
+  /* Adjust shop button position */
+  .shop-button {
+    position: static;
+    top: 0;
+    margin: 15px auto;
+  }
+
+  /* Adjust fimage layout */
+  .fimage {
+    width: 100%;
+    float: none;
+    padding-top: 50px;
+    margin-right: 0;
+  }
+
+  /* Adjust content alignment */
+  .content {
+    padding-top: 150px;
+    margin: 0 auto;
+  }
+
+  /* Adjust bag content alignment */
+  .bag-content {
+    margin: 0 auto;
+  }
+
+  /* Adjust hotdeal alignment */
+  .hotdeal {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+
+  /* Adjust clock alignment */
+  .clock {
+    margin: 0 auto;
+    margin-top: 15px;
+    padding-bottom: 0;
+  }
+
+  /* Adjust simage alignment */
+  .simage {
+    margin-top: 10px;
+  }
+
+  /* Adjust gimage and shoeimg layout */
+  .gimage,
+  .shoeimg {
+    width: 100%;
+    float: none;
+    height: auto;
+    margin-right: 0;
+  }
+
+  /* Adjust shcont alignment */
+  .shcont {
+    margin: 0 auto;
+    margin-top: 5px;
+  }
+
+  /* Adjust spring color */
+  .spring {
+    color: #842204;
+  }
+}

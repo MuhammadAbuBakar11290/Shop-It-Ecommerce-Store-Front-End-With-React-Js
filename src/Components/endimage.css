@@ -1,0 +1,40 @@
+/* .endimage{
+    padding-top: 5%;
+    width: 10%;
+
+} */
+/* endimage.css */
+
+  
+  .endimage img {
+    max-width: 60%; /* Adjust the size as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 7%;
+    padding-top: 5%;
+    
+  }
+  .content-end{
+    float: right;
+    margin-right:21% ;
+    margin-top:-28%;
+    font-size: 20px;
+    background: linear-gradient(to right, rgb(0, 157, 42), rgb(10, 169, 153)); /* Gradient from blue to green */
+    background-clip: text; /* Apply gradient to text */
+    color: transparent; /* Hide the original text color */
+    
+  }
+  .content-pend{
+    float: right;
+    margin-right:4% ;
+    margin-top:-23%;
+    font-size: 24px;
+  }
+  .hashtag{
+    float: right;
+    margin-right:7% ;
+    margin-top:-12%;
+    background: linear-gradient(to right, rgb(157, 0, 113), rgb(169, 92, 10)); /* Gradient from blue to green */
+    background-clip: text; /* Apply gradient to text */
+    color: transparent; /* Hide the original text color */
+  }
+  

@@ -1,0 +1,239 @@
+
+[  {"id":1,
+    "image": "https://m.media-amazon.com/images/I/41-vlw0nXuL.jpg",
+    "price": 15,
+    "rating": 4.5,
+    "collection": "men",
+    "title":"Men's Hoodie"
+  },
+    {"id":2,
+        "image": "https://www.kayazar.com/images/product_gallery/1652730424_make-it-happen-011-kayazar-t-shirt-Navy-Blue.webp",
+        "price": 25,
+        "rating": 4.0,
+        "collection": "men",
+        "title":"T-Shirt Round Neck"
+      },
+      {
+        "id":3,
+        "image": "https://d10mm2gps7of7f.cloudfront.net/product_files/194_f45f2d53-1c67-4a3a-aec0-1faa4fd4464d.jpg",
+        "price": 30,
+        "collection": "men",
+        "title":"Pack of 3 Full Sleeve T-Shirt",
+        "rating": 4.0
+      },
+    {
+      "id":4,
+      "image": "https://uniworthdress.com/uploads/product/ST1070S..jpg",
+      "price": 50,
+      "rating": 4.5,
+      "collection": "men",
+      "title":"Black Plain Suit"
+    },
+    {
+      "id":5,
+      "image": "https://www.dhresource.com/0x0/f2/albu/g18/M00/94/7F/rBVapGINMimAPMPkAABTxAWArHE309.jpg",
+      "price": 40.99,
+      "rating": 5.0,
+      "collection": "men",
+      "title":"Men's Casual Shirt "
+    },
+    {
+      "id":6,
+        "image": "https://brandsego.com/cdn/shop/files/Summer-Fashion-T-Shirt-_-Lounge-Short-Suit-For-Men-White-with-Grey-Lining-BE18217-BR677-BrandsEgo.Com-1688644537469_1600x.jpg?v=1688644538",
+        "price": 29.99,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Men's Gym Outfit"
+      },
+  
+      {
+        "id":7,
+        "image": "https://shopgroove.pk/cdn/shop/products/S3de10d87d99b4ef787a75caaa6dba0dak_jpg_640x640Q90_jpg.jpg?v=1664899581&width=360",
+        "price": 31.99,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Men's Printed Shirt"
+      },
+      {
+        "id":8,
+        "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T1191A2PA6184PT17X33Y16D169553818W21211H25454/views/1,width=378,height=378,appearanceId=2,backgroundColor=F2F2F2/pakistan.jpg",
+        "price": 13,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Half Sleeves Printed Logo T-Shirt"
+      },
+      {
+        "id":9,
+        "image": "https://static-01.daraz.pk/p/9dbf0200e8550a4a924de6a911d3327c.jpg_200x200.jpg_.webp",
+        "price": 19,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Half Sleeve Commando T-Shirt"
+      },
+      {
+        "id":10,
+        "image": "https://www.pngall.com/wp-content/uploads/5/Men-Shoes.png",
+        "price": 70,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Smart Men's Shoes"
+      },
+      {
+        "id":11,
+        "image": "https://www.freeiconspng.com/thumbs/shoes-png/pink-women-shoes-png-image-27.png",
+        "price": 31.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Heels for Women's"
+      },
+      {
+        "id":12,
+        "image": "https://i.pinimg.com/originals/f4/5f/60/f45f608cc8624fd6404b0aa6df42607f.png",
+        "price": 29.99,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Men's Formal Wear "
+      },
+      {
+        "id":13,
+        "image": "https://www.servis.pk/cdn/shop/articles/fi-servis-1.jpg?v=1663238309",
+        "price": 42.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Unze Ladies Shoes"
+      },
+      {
+        "id":14,
+        "image": "https://www.dressyzone.com/cdn/shop/products/p15411-readymade-chiffon-maxi-dress_580x.jpg?v=1663152624",
+        "price": 120,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Embroidered Black Kashmiri Full Length Dress"
+      },
+      {
+        "id":15,
+        "image": "https://styledebates.com/wp-content/uploads/2016/12/Work-Outfits-Ideas-Chic-Office-Looks-1.jpg",
+        "price": 179.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Women's Fashion All in One"
+      },
+      {
+        "id":16,
+        "image": "https://www.aumi4.com/cdn/shop/products/0_15085524377_986186006.jpg?v=1646995037",
+        "price": 99.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Women's Mexican Style Top"
+      },
+      {
+        "id":17,
+        "image": "https://www.aumi4.com/cdn/shop/products/0_O1CN01jMfJen1tq44v49rKy__2207597985952-0-cib.jpg?v=1646995862",
+        "price": 149.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Long-Sleeve Round-Neck Embroidered Dress"
+      },
+      {
+        "id":18,
+        "image": "https://www.gladandglam.com/cdn/shop/products/image_3597be49-f0fa-4c6f-8840-6b6eb1317ad8_1000x.jpg?v=1683745420",
+        "price": 249.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"EWQ Sweet Style Y2K Women Nice Foreve Dress"
+      },
+      {
+        "id":19,
+        "image": "https://shopizia.pk/wp-content/uploads/2022/12/Hot-Sale-4-Pcs-Set-Luxury-Classic-Women-s-Jewelry-Set-Gold-Plated-Crystal-Zircon-Metal.jpg",
+        "price": 399.99,
+        "rating": 4.5,
+        "collection": "women",
+        "title":" Luxury Classic Women’s Jewelry Set Gold Plated Crystal Zircon Metal Chain Necklace Bracelet Earring Ring"
+      },
+      {
+        "id":20,
+        "image": "https://ae01.alicdn.com/kf/S83e274d5beb144a9b02f40923bde1512d/Missvikki-Original-Chic-4pcs-Jewelry-Sets-Necklace-Bangle-Ring-Earrings-Luxury-Gougeous-Splicing-Set-For-Women.jpg",
+        "price": 345,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Crystal Necklace Jewlery"
+      },
+      {
+        "id":21,
+        "image": "https://lzd-img-global.slatic.net/g/p/4cae22a76771414217c3bae4bbddaa48.jpg_720x720q80.jpg",
+        "price": 1200,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Shop-It Original Rolex  Watch"
+      },
+      {
+        "id":22,
+        "image": "https://en-pk.svestonwatches.com/cdn/shop/files/6237-Cam002F12.jpg?v=1691824431",
+        "price": 1499,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Shop-It Original Ruby Diamond Plated Watch"
+      },
+      {
+        "id":23,
+        "image": "https://image.pandawhole.com/7/0/d/729d3afc-e33b-450e-8c88-88ad3a7ebd07.jpg",
+        "price": 1600,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"Women's Sterling Silver Bracelets"
+      },
+      {
+        "id":24,
+        "image": "https://jackmarc.com/cdn/shop/files/WhatsAppImage2023-07-26at8.09.02PM_1.jpg?v=1690456828&width=1445",
+        "price": 1500,
+        "rating": 4.5,
+        "collection": "women",
+        "title":"French Victorian Diamond Bracelet Gold"
+      },
+
+
+       {
+        "id":25,
+      "image": "https://static-01.daraz.pk/p/3ce3ec56228627e74f88244772dee3d3.jpg",
+      "price": 19.99,
+      "rating": 4.5,
+      "collection": "men",
+      "title":"Men's Bracelet"
+    },
+    {
+      "id":26,
+        "image": "https://jewelrydesigns.com/wp-content/uploads/pc-Mens-Wedding-Rings-mobile.jpg",
+        "price": 24.99,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Men's Pack of 3 Rings"
+      },
+      {
+        "id":27,
+        "image": "https://static-01.daraz.pk/p/c4200a7b2b21b6d9abd3ec7849e523c7.jpg",
+        "price": 80,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Men's Luxury Sunglasses"
+      },
+      {
+        "id":28,
+        "image": "https://ae01.alicdn.com/kf/S4be93218f73940f2a004cf7f9f784358d/Luxury-Top-Brand-Quartz-Watches-Men-Steel-Strap-Military-Sports-Wristwatch-Man-Waterproof-Wrist-Watch-Relogios.jpg",
+        "price": 350,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Wrist Watch Private Label"
+      },
+      {
+        "id":29,
+        "image": "https://www.exportleftovers.com/cdn/shop/products/24683-Untitled-7_21389d00-6c93-41c1-8072-b29315c6ecb6_1200x.jpg?v=1658849952",
+        "price": 39.99,
+        "rating": 4.5,
+        "collection": "men",
+        "title":"Dari Mooch White Starter Beard Grooming Kit"
+      }
+      
+      
+      
+  ]
+  

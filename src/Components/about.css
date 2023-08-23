@@ -1,0 +1,107 @@
+body {
+    background-color: #fff;
+}
+
+.abtcontent {
+    font-size: 35px;
+    margin-left: 1%;
+    max-width: 35%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(72, 65, 65);
+    
+    /* align-items: center; Align content vertically */
+}
+.abtshopit{
+    font-size: 65px;
+    font-family: cursive;
+    color: #12a9c3cc;
+}
+
+.main-about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px 0px;
+    /* text-align: center; */
+}
+
+.Store1 {
+    /* background-color: #b2e6da; */
+    display: flex; /* Add display flex */
+    align-items: center; /* Align content vertically */
+}
+
+.storeimg1 {
+    height: 400px;
+    
+    margin-left: 14px;
+    height: 400px;
+    margin-right: 8px;
+}
+.aboutsec-content{
+    
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: left;
+   
+
+   
+   
+    /* padding: 20px; */
+}
+/* Your existing styles */
+.heading-container {
+    margin-bottom: 20px; /* Pushes the heading to the middle */
+    margin-right: 25%;
+    padding-top: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+  }
+.long-paragraph {
+    max-width: 30%;
+  margin-right: 10%;
+    line-height: 1.5; /* Adjust this value for desired line spacing */
+    font-size: 20px;
+} 
+  
+/* Your existing styles */
+
+.stats-image {
+    max-width: 50%; /* Limits the image width to its container's width */
+    height: auto; /* Maintains the image's aspect ratio */
+    margin-top: -300px;
+    margin-left: 80px;
+  }
+  .abtimages {
+    height: 450px;
+    width: 400px;
+    margin-top: 12%;
+  }
+
+  .abtstore {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+    width: calc(33.33% - 20px); /* 3 images in a row with some margin */
+  }
+  .Aboutprop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .TeamMember{
+    text-align: center;
+    padding-top: 25px;
+
+  }
+  .TeamMates{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+  }
