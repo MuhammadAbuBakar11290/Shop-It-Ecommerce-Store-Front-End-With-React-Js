@@ -1,6 +1,7 @@
 # Shop It E-Commerce Store Frontend with React.js
 
 Welcome to the frontend repository of our E-Commerce Store built using React.js! This repository contains the code for the user interface of our online store.
+![11](https://github.com/MuhammadAbuBakar11290/Shop-It-Ecommerce-Store-Front-End-With-React-Js/assets/142800047/798f4139-dff1-4dc5-b707-fde51accd553)
 
 ## Getting Started
 
@@ -11,6 +12,9 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 - Browse products by category.
 - Add products to the shopping cart.
 - Checkout and place orders.
+
+## Front end Video
+https://github.com/MuhammadAbuBakar11290/Shop-It-Ecommerce-Store-Front-End-With-React-Js/assets/142800047/e97517bf-c207-4da5-b7ad-8cbc8a0864d3
 
 ## Installation
 
